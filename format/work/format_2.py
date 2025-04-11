@@ -29,14 +29,16 @@ df = pd.DataFrame(datos)
 df['precio'] = df['precio'].astype(int)
 df['almacenamiento'] = df['almacenamiento'].astype(int)
 
-df['ciudad'] = df['ciudad'].str.capitalize().replace({'N.y.': 'New york', 'Ny': 'New york', 'NY': 'New york', 'new york': 'New york'})
+df['ciudad'] = df['ciudad'].str.capitalize().replace({'N.y.': 'New york', 'Ny': 'New york', 'NY': 'New york', 'new york': 'New york'}).str.title()
 
 df['tipo_pantalla'] = df['tipo_pantalla'].str.upper()
 
-#!
-df['peso'].replace("N/A", np.nan).astype(float)
+df['peso']= df['peso'].replace('N/A',np.nan)
 df['peso'] = df['peso'].astype(float)
+
 peso_promedio = df['peso'].mean()
-df['peso'] = df['peso'].fillna(peso_promedio)
+df['peso']= df['peso'].fillna(peso_promedio)
+
+df['peso'] = df['peso'].astype(int)
 
 df.to_csv(f'{path}/format_2.csv')

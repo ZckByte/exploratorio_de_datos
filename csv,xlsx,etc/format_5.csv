@@ -1,0 +1,5 @@
+,producto,unidades_vendidas,precio_unitario,fecha_venta,forma_pago,categoria
+0,Mouse Logitech,10,15.5,2023-06-01,efectivo,perifericos
+1,Teclado HP,8,20.0,2023-01-06,tarjeta,Perifericos
+2,Monitor Samsung,2,150.0,2023-01-06,efectivo,Pantallas
+3,Cable HDMI,5,61.833333333333336,2023-06-01,tarjeta,cables

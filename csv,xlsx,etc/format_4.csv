@@ -1,0 +1,5 @@
+,producto,cantidad,peso_kg,destino,costo_envio,urgente
+0,Monitor Samsung,3,12.5,New York,25.5,sí
+1,Mouse Logitech,10,0.2,New York,5.0,no
+2,Teclado Redragon,4,4.3,New York,10.0,sí
+3,Audífonos Sony,2,0.3,New York,7.5,no
