@@ -1,0 +1,4 @@
+,marca,precio,tipo_bateria,ciclos_carga,estado
+0,Lenovo,350.0,Li-ion,500.0,bueno
+2,Asus,450.0,NiMH,450.0,bueno
+3,Dell,400.0,Li-ion,400.0,bueno
