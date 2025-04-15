@@ -1,0 +1,7 @@
+,bici_id,color,rodado,eléctrica,montaña,urbana,rodado_grande
+0,B-101,rojo,26,0,0,1,False
+1,B-102,azul,29,0,1,0,True
+2,B-103,negro,28,1,0,0,True
+3,B-104,rojo,26,0,0,1,False
+4,B-105,azul,27,0,1,0,False
+5,B-106,negro,28,1,0,0,True
