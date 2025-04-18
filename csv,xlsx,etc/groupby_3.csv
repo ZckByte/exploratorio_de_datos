@@ -1,0 +1,8 @@
+,tienda,categoria,producto,ventas,unidades
+0,Tienda A,Electrónica,Monitor,12000,20
+1,Tienda A,Oficina,Silla,3000,10
+2,Tienda B,Electrónica,Teclado,2500,25
+3,Tienda A,Electrónica,Teclado,2000,20
+4,Tienda C,Oficina,Silla,2400,8
+5,Tienda B,Oficina,Escritorio,5000,5
+6,Tienda C,Electrónica,Monitor,6000,10

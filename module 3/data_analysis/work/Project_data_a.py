@@ -45,7 +45,6 @@ for i in range(len(df)):
 plt.title('Asistencia vs Nota Final')
 plt.xlabel('Asistencia')
 plt.ylabel('Nota Final')
-plt.savefig(f'{path}/grafico_boxplot_notas.png')
 plt.savefig(f'{path}/grafico_scatter_asistencia.png')
 plt.show()
 df.to_csv(f'{path}/project_data_a.csv')

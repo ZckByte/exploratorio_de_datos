@@ -1,0 +1,9 @@
+,sucursal,producto,categoria,precio_unitario,unidades_vendidas,costo_unitario,empleado,fecha_venta,ganancia_unitaria,total_venta,total_ganancia
+0,Norte,Laptop,Electrónica,1000,3,800,Laura,2023-06-10,200,3000,600
+1,Norte,Teclado,Periférico,50,10,30,Laura,2023-06-10,20,500,200
+2,Sur,Laptop,Electrónica,1100,2,850,Tomás,2023-10-06,250,2200,500
+3,Sur,Monitor,Electrónica,400,5,300,Tomás,2023-06-11,100,2000,500
+4,Este,Teclado,Periférico,60,8,40,Sofía,2023-11-06,20,480,160
+5,Oeste,Laptop,Electrónica,950,4,780,Carla,2023-06-12,170,3800,680
+6,Oeste,Monitor,Electrónica,420,6,310,Carla,2023-06-12,110,2520,660
+7,Este,Monitor,Electrónica,390,7,320,Sofía,2023-06-13,70,2730,490

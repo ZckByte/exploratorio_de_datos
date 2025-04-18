@@ -1,0 +1,7 @@
+,modelo,precio,ram_gb,disco_gb,procesador
+0,Lenovo IdeaPad,750,8,512,Intel i5
+1,HP Pavilion,820,16,1000,AMD Ryzen 5
+2,Dell Inspiron,660,8,256,Intel i3
+3,Acer Aspire,580,4,512,AMD Ryzen 3
+4,ASUS ZenBook,980,16,512,Intel i7
+5,Lenovo ThinkPad,890,8,1000,AMD Ryzen 7

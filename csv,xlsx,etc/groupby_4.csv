@@ -1,0 +1,10 @@
+,vendedor,region,ventas,objetivos,cumplio_objetivo
+0,Carla,Norte,8500,8000,True
+1,Tomás,Sur,6700,7500,False
+2,Ana,Norte,9200,9000,True
+3,Marcos,Oeste,5600,6000,False
+4,Laura,Sur,7400,7000,True
+5,Pedro,Oeste,6100,6000,True
+6,Carla,Norte,8700,8000,True
+7,Tomás,Sur,6900,7500,False
+8,Ana,Norte,9500,9000,True

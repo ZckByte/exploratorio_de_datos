@@ -1,0 +1,8 @@
+,index,cliente,categoria,producto,cantidad,precio_unitario,total_compra
+0,0,Ana,Electrónica,Teclado,2,25,50
+1,1,Luis,Oficina,Silla,1,120,120
+2,2,Ana,Electrónica,Mouse,1,15,15
+3,3,Carla,Oficina,Escritorio,1,200,200
+4,4,Luis,Electrónica,Monitor,2,150,300
+5,5,Ana,Oficina,Silla,1,120,120
+6,6,Carla,Electrónica,Teclado,1,25,25
