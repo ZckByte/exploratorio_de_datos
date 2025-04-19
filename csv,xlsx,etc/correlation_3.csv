@@ -1,0 +1,7 @@
+,componente,tipo,precio_usd,velocidad_ghz,memoria_gb,consumo_w
+0,CPU A,CPU,250,3.5,8,65
+1,CPU B,CPU,320,4.0,12,95
+2,GPU A,GPU,500,1.5,8,250
+3,GPU B,GPU,650,1.8,12,300
+4,RAM A,RAM,80,3.2,16,45
+5,RAM B,RAM,120,3.6,32,55
